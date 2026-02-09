@@ -244,7 +244,7 @@
             <div class="section-title">Education</div>
             
             <div class="education-item">
-                <div class="education-year">2019-2020</div>
+                <div class="education-year">2016-2020</div>
                 <div class="education-content">
                     <div class="education-degree">Junior High School</div>
                     <div class="education-school">Juan G. Macaraeg NAtional High School</div>
