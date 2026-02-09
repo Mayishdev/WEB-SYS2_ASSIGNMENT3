@@ -185,7 +185,6 @@
 <body>
 
 <div class="resume-container">
-    <!-- Header Section -->
     <div class="header-section">
         <div class="header-image">
               @if(isset($data['photo']) && !empty($data['photo']))
@@ -272,8 +271,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- Skills Section -->
         <div class="section">
             <div class="section-title">Skills</div>
             <ul class="skills-list">
